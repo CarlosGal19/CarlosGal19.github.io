@@ -3,7 +3,7 @@ body{
     color: #fff;
 }
 
-.class{
+.main{
     text-align: center;
 }
 
@@ -12,5 +12,21 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    padding: 10px 0;
+}
+
+.header_image{
+    width: 75px;
+    height: 75px;
+}
+
+.list_header{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.item_list_header{
+    padding: 0px 15px;
 }
