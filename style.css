@@ -1,6 +1,8 @@
 body{
     background-color: black;
     color: #fff;
+    background-image: url("messi.png");
+    background-size: 100%;
 }
 
 .main{
@@ -29,4 +31,23 @@ body{
 
 .item_list_header{
     padding: 0px 15px;
+}
+
+.container_body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.body_left{
+    width: 50%;
+}
+
+.list_right{
+    list-style: none;
+}
+
+.button_arrow{
+
 }
