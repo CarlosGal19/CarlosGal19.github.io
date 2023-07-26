@@ -51,6 +51,7 @@ body{
     list-style: none;
     display: flex;
     flex-direction: row;
+    padding-top: 5%;
 }
 
 h1{
@@ -79,4 +80,15 @@ h1{
 
 .body_left{
     padding-right: 10%;
+}
+
+.setting{
+    background-color: none;
+    border: none;
+    outline: none;
+}
+
+p{
+    line-height: 2;
+    text-align: justify;
 }
