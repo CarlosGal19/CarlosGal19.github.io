@@ -83,12 +83,26 @@ h1{
 }
 
 .setting{
-    background-color: none;
     border: none;
     outline: none;
+    background-color: transparent;
 }
 
 p{
     line-height: 2;
     text-align: justify;
+}
+
+a{
+    color: #fff;
+}
+
+.foto_menu{
+    width: 50px;
+}
+
+.button_arrow{
+    background-color: transparent;
+    border: none;
+    outline: none;
 }
