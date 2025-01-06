@@ -1,0 +1,25 @@
+body {
+    font-family: "League Spartan", Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 808px) {
+    body {
+        background-image: url('../img/bg/bg-mobile.svg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        overflow-x: hidden;
+    }
+}
+
+@media (min-width: 807px) {
+    body {
+        width: 100%;
+        height: 100%;
+        background-image: url('../img/bg/bg.svg');
+        background-size: cover;
+        background-position: center;
+    }
+}

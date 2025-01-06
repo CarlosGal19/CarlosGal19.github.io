@@ -1,0 +1,25 @@
+{
+    "main": {
+        "title": "Hi, I'm Carlos Galindo",
+        "subtitle": "I'm a software developer",
+        "description": "I have experience in web development both frontend (Nextjs, React) and backend (Nodejs, .NET), as well as in databases (SQL Server, PostgreSQL, MySQL, MongoDB)."
+    },
+    "about": {
+        "title": "About me",
+        "description": "I am a software developer with experience in web development both frontend (Nextjs, React) and backend (Nodejs, .NET), as well as in databases (SQL Server, PostgreSQL, MySQL, MongoDB). I am passionate about technology and I am always looking to learn new things.",
+        "currentStack": "My current Stack",
+        "stack": "Technologies I have worked with",
+        "certifications": "Certifications"
+    },
+    "projects": {
+        "title": "Projects",
+        "description": "Some of the projects I have worked on"
+    },
+    "experience": {
+        "title": "Experience",
+        "description": "Studies and work experience",
+        "studiesTitle": "Studies",
+
+        "workTitle": "Work Experience"
+    }
+}
