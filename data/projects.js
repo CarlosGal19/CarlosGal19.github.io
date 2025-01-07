@@ -1,4 +1,4 @@
-export default projects = [
+export const projects = [
     {
         "name": "CFE Workers Overtime Manager System",
         "description": "Web application to manage and record the overtime of the workers of the CFE (Comisión Federal de Electricidad).",
@@ -34,3 +34,4 @@ export default projects = [
         "completed": false
     }
 ]
+
